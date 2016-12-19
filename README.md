@@ -1,1 +1,2 @@
 # kiwicampusnews
+# newsmanagerkiwi
